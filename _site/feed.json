@@ -1,9 +1,19 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "William Benton",
-	"home_page_url": "https://willb.micro.blog/",
-	"feed_url": "https://willb.micro.blog/feed.json",
+	"home_page_url": "http://mu.willb.io/",
+	"feed_url": "http://mu.willb.io/feed.json",
 	"items": [
+		
+		{
+			"id": "http://willb.micro.blog/2018/07/06/the-delights-of.html",
+	      	
+			"title": "The delights of cookbooks",
+			
+			"content_html": "<p>I was reminded today that the delights of good cookbooks subsist not merely in explaining how to prepare particular dishes of interest but in introducing wonderful things <em>that one didn’t even know were of interest</em>.</p>\n\n<p>This is true of the best technical writing structured around a cookbook metaphor, as well.</p>\n",
+			"date_published": "2018-07-06T17:39:29-05:00",
+			"url": "http://mu.willb.io/2018/07/06/the-delights-of.html"
+		}
 		
 	]
 }
