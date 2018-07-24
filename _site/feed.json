@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://willb.micro.blog/2018/07/24/tracing-the-development.html",
+	      	
+			"title": "Tracing the development of presentation style",
+			
+			"content_html": "<p>For nearly all of my adult life, a large part of my job has involved communicating technical concepts.  I like to imagine that I’ve developed a consistent voice, style, and visual language, and I’m also inclined to imagine that it has taken me a long time to get here.  I recently needed to look over an old deck and was surprised to note that many elements of my current (and presumably at least somewhat refined) style were present in a talk I gave over a decade ago as a graduate student.</p>\n\n<p>Here’s <a href=\"http://pages.cs.wisc.edu/~willb/dimple/ppdp07-talk.pdf\">the old talk</a>; for comparison, here’s <a href=\"https://chapeau.freevariable.com/static/201801/probabilistic-structures.pdf\">a talk I gave this January</a>.  While I’m still improving at giving talks and designing visual explanations, I guess things haven’t changed as radically as I might have assumed.</p>\n",
+			"date_published": "2018-07-23T20:13:49-05:00",
+			"url": "http://mu.willb.io/2018/07/23/tracing-the-development.html"
+		},
+		
+		{
 			"id": "http://willb.micro.blog/2018/07/06/the-delights-of.html",
 	      	
 			"title": "The delights of cookbooks",
