@@ -1,7 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "William Benton",
-	"icon": "https://cdn.micro.blog/willb/avatar.jpg",
+	"icon": "https://micro.blog/willb/avatar.jpg",
 	"home_page_url": "https://mu.willb.io/",
 	"feed_url": "https://mu.willb.io/feed.json",
 	"items": [
@@ -9,7 +9,7 @@
 			{
 				"id": "http://willb.micro.blog/2025/10/06/consumption-carcass/",
 				
-				"content_html": "<p>consumption carcass</p>\n<img src=\"uploads/2025/3ba41268d079461ba11e17681758fa2e.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"content_html": "<p>consumption carcass</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "consumption carcass\n\n<img src=\"uploads/2025/3ba41268d079461ba11e17681758fa2e.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
 				"date_published": "2025-10-06T08:45:09-05:00",
 				"url": "https://mu.willb.io/2025/10/06/consumption-carcass/"
@@ -17,7 +17,7 @@
 			{
 				"id": "http://willb.micro.blog/2025/10/02/inside-an-electric-violin-laowa/",
 				
-				"content_html": "<p>inside an electric violin (Laowa probe lens, focus-stacked)</p>\n<img src=\"uploads/2025/8cd09d275a6d44a4811b189d76d95fa1.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_html": "<p>inside an electric violin (Laowa probe lens, focus-stacked)</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "inside an electric violin (Laowa probe lens, focus-stacked)\n\n<img src=\"uploads/2025/8cd09d275a6d44a4811b189d76d95fa1.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2025-10-02T12:01:54-05:00",
 				"url": "https://mu.willb.io/2025/10/02/inside-an-electric-violin-laowa/",
@@ -34,7 +34,7 @@
 			{
 				"id": "http://willb.micro.blog/2021/06/17/the-context-behind-algorithmic-playlists/",
 				"title": "The context behind algorithmic playlists",
-				"content_html": "<p><img src=\"https://mu.willb.io/uploads/2021/b93452c384.png\" alt=\"Spotify&rsquo;s &ldquo;daily mixes&rdquo; for a given listener\"></p>\n<p>I don&rsquo;t always listen to my Spotify &ldquo;daily mixes,&rdquo; which are algorithmically-generated playlists covering the constellation around a genre, but on most days at least one of mine is devoted to early music.</p>\n<p>I was listening to one such playlist the other night and noticed <a href=\"https://en.wikipedia.org/wiki/Claudin_de_Sermisy\">Claudin de Sermisy</a>&rsquo;s <a href=\"https://open.spotify.com/track/5OLwvx0O2V4D0KMzrMsuV2?si=4d04230cb59d4831\">&ldquo;Tant que vivray&rdquo;</a>.  I&rsquo;ve noticed in the past that this piece comes up often in algorithmic playlists — it&rsquo;s almost always in my early music playlists — and suspect that its popularity on streaming services is due to its place in the <a href=\"https://wwnorton.com/books/9780393936889\"><em>Norton Recorded Anthology of Western Music</em></a>.</p>\n<p>Since nearly every American who has taken undergraduate music history in the last forty years has studied this piece, it&rsquo;s not surprising that automated recommendations favor &ldquo;Tant que vivray,&rdquo; especially since these students first encountered it  at a crucial point in the term:  the later French Renaissance is dramatically more accessible to contemporary ears than most of the western art music that preceded it.  However, it&rsquo;s possible to improve on even a great original: Miguel de Fuenllana&rsquo;s <a href=\"https://open.spotify.com/track/5UflyKyIgrebyPwbTYpU2n?si=fa4a043032444af9\"> intabulation of &ldquo;Tant que vivray&rdquo; for vihuela</a> is a beautiful consequence of Sermisy&rsquo;s chansons reaching Spain.</p>\n<!-- One of the most interesting aspects of studying Renaissance music was seeing how regional styles spread across Europe.  \"Tant que vivray\" was written in a genre derived from the Italian frottola, and Sermisy's music enjoyed wide distribution throughout Europe in his lifetime.  Since I love cover versions that improve on the original, -->\n",
+				"content_html": "<p><img src=\"https://mu.willb.io/uploads/2021/b93452c384.png\" alt=\"Spotify&rsquo;s &ldquo;daily mixes&rdquo; for a given listener\"></p>\n<p>I don&rsquo;t always listen to my Spotify &ldquo;daily mixes,&rdquo; which are algorithmically-generated playlists covering the constellation around a genre, but on most days at least one of mine is devoted to early music.</p>\n<p>I was listening to one such playlist the other night and noticed <!-- raw HTML omitted -->Claudin de Sermisy<!-- raw HTML omitted -->&rsquo;s <!-- raw HTML omitted -->&ldquo;Tant que vivray&rdquo;<!-- raw HTML omitted -->.  I&rsquo;ve noticed in the past that this piece comes up often in algorithmic playlists — it&rsquo;s almost always in my early music playlists — and suspect that its popularity on streaming services is due to its place in the <!-- raw HTML omitted --><!-- raw HTML omitted -->Norton Recorded Anthology of Western Music<!-- raw HTML omitted --><!-- raw HTML omitted -->.</p>\n<p>Since nearly every American who has taken undergraduate music history in the last forty years has studied this piece, it&rsquo;s not surprising that automated recommendations favor &ldquo;Tant que vivray,&rdquo; especially since these students first encountered it  at a crucial point in the term:  the later French Renaissance is dramatically more accessible to contemporary ears than most of the western art music that preceded it.  However, it&rsquo;s possible to improve on even a great original: Miguel de Fuenllana&rsquo;s <!-- raw HTML omitted --> intabulation of &ldquo;Tant que vivray&rdquo; for vihuela<!-- raw HTML omitted --> is a beautiful consequence of Sermisy&rsquo;s chansons reaching Spain.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "![Spotify's \"daily mixes\" for a given listener](https://mu.willb.io/uploads/2021/b93452c384.png)\n\nI don't always listen to my Spotify \"daily mixes,\" which are algorithmically-generated playlists covering the constellation around a genre, but on most days at least one of mine is devoted to early music.\n\nI was listening to one such playlist the other night and noticed <a href=\"https://en.wikipedia.org/wiki/Claudin_de_Sermisy\">Claudin de Sermisy</a>'s <a href=\"https://open.spotify.com/track/5OLwvx0O2V4D0KMzrMsuV2?si=4d04230cb59d4831\">\"Tant que vivray\"</a>.  I've noticed in the past that this piece comes up often in algorithmic playlists — it's almost always in my early music playlists — and suspect that its popularity on streaming services is due to its place in the <a href=\"https://wwnorton.com/books/9780393936889\"><em>Norton Recorded Anthology of Western Music</em></a>. \n\nSince nearly every American who has taken undergraduate music history in the last forty years has studied this piece, it's not surprising that automated recommendations favor \"Tant que vivray,\" especially since these students first encountered it  at a crucial point in the term:  the later French Renaissance is dramatically more accessible to contemporary ears than most of the western art music that preceded it.  However, it's possible to improve on even a great original: Miguel de Fuenllana's <a href=\"https://open.spotify.com/track/5UflyKyIgrebyPwbTYpU2n?si=fa4a043032444af9\"> intabulation of \"Tant que vivray\" for vihuela</a> is a beautiful consequence of Sermisy's chansons reaching Spain.\n\n<!-- One of the most interesting aspects of studying Renaissance music was seeing how regional styles spread across Europe.  \"Tant que vivray\" was written in a genre derived from the Italian frottola, and Sermisy's music enjoyed wide distribution throughout Europe in his lifetime.  Since I love cover versions that improve on the original, -->\n",
 				"date_published": "2021-06-17T20:14:00-05:00",
 				"url": "https://mu.willb.io/2021/06/17/the-context-behind-algorithmic-playlists/"
@@ -42,7 +42,7 @@
 			{
 				"id": "http://willb.micro.blog/2021/01/10/quiet-on-state-street/",
 				
-				"content_html": "<p>quiet on State Street</p>\n<img src=\"uploads/2021/f9732e6a9c.jpg\">\n",
+				"content_html": "<p>quiet on State Street</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "quiet on State Street\n\n<img src=\"uploads/2021/f9732e6a9c.jpg\">\n",
 				"date_published": "2021-01-10T23:27:00-05:00",
 				"url": "https://mu.willb.io/2021/01/10/quiet-on-state-street/",
@@ -91,7 +91,7 @@
 			{
 				"id": "http://willb.micro.blog/2018/07/06/the-delights-of-cookbooks/",
 				"title": "The delights of cookbooks",
-				"content_html": "<p>I was reminded today that the delights of good cookbooks subsist not merely in explaining how to prepare particular dishes of interest but in introducing wonderful things <em>that one didn&rsquo;t even know were of interest</em>.</p>\n<p>This is true of the best technical writing structured around a cookbook metaphor, as well.</p>\n",
+				"content_html": "<p>I was reminded today that the delights of good cookbooks subsist not merely in explaining how to prepare particular dishes of interest but in introducing wonderful things <!-- raw HTML omitted -->that one didn&rsquo;t even know were of interest<!-- raw HTML omitted -->.</p>\n<p>This is true of the best technical writing structured around a cookbook metaphor, as well.</p>\n",
 				"content_text": "I was reminded today that the delights of good cookbooks subsist not merely in explaining how to prepare particular dishes of interest but in introducing wonderful things <em>that one didn't even know were of interest</em>.  \n\nThis is true of the best technical writing structured around a cookbook metaphor, as well.\n",
 				"date_published": "2018-07-06T17:39:29-05:00",
 				"url": "https://mu.willb.io/2018/07/06/the-delights-of-cookbooks/"
